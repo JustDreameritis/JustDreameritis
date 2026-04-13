@@ -10,7 +10,7 @@ I build automated trading systems and AI-driven tooling.
 **Currently:**
 - Contributing to [Expensify/App](https://github.com/Expensify/App) (React Native)
 - Building multi-venue crypto trading infrastructure
-- Designing agentic workflows with Claude Code
+- Designing agentic workflows with Claude Code, Codex and Gemma
 
 **Links:**
 [Upwork](https://www.upwork.com/freelancers/~0148cfddf4cbd7fe0c)
