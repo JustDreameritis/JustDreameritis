@@ -11,6 +11,8 @@ I build production infrastructure that runs 24/7 without babysitting.
 | [gp-optimizer](https://github.com/JustDreameritis/gp-optimizer) | Evolutionary signal optimization engine | Python, NumPy |
 | [rust-async-engine](https://github.com/JustDreameritis/rust-async-engine) | Microsecond-latency async execution | Rust, Tokio |
 | [realtime-data-pipeline](https://github.com/JustDreameritis/realtime-data-pipeline) | Multi-source WebSocket streaming with unified schema | Python, WebSocket |
+| [n8n-workflows](https://github.com/JustDreameritis/n8n-workflows) | Webhook, RSS, and API automation workflows | n8n, Node.js |
+| openclaw-deployment | OpenClaw AI agent deployment on VPS | Python, Claude |
 
 ## Key Numbers
 
