@@ -13,6 +13,8 @@ I build production systems that run 24/7: chatbots, data pipelines, custom bots,
 | **Email Parser & Web Automation** | $75 | [email-parser-automation](https://github.com/JustDreameritis/email-parser-automation) | IMAP monitoring, attachment parsing, Playwright browser automation |
 | **Claude MCP Tools** | $150 | [claude-mcp-starter](https://github.com/JustDreameritis/claude-mcp-starter) | Custom MCP server for Claude Code/Desktop, 6 example tools |
 | **AI Code Review** | $50 | [multiview](https://github.com/JustDreameritis/multiview) | 6-model parallel code review from your terminal |
+| **Multi-Agent AI Framework** | $200 | [openclaw-starter](https://github.com/JustDreameritis/openclaw-starter) | Agent orchestration, safety constraints, persistent memory, watchdog alerts |
+| **AI Content Pipeline** | $150 | [ai-content-pipeline](https://github.com/JustDreameritis/ai-content-pipeline) | Script → Voice → Animation pipeline, ElevenLabs + Runway/Kling integration |
 
 ## How to Hire Me
 
