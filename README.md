@@ -1,6 +1,6 @@
 # Hi, I'm Petr — I Build Autonomous AI Systems
 
-I build systems that monitor, analyze, decide, and act — without human intervention. My latest: an autonomous bounty-hunting pipeline that watches GitHub repos, reads codebases, writes technical proposals, and learns from every outcome. Currently engaging with Expensify reviewers on live issues.
+I build systems that monitor, analyze, decide, and act — without human intervention. My latest: an autonomous bounty-hunting pipeline that watches GitHub repos, reads codebases, writes technical proposals, and tracks every outcome for pattern analysis. Currently engaging with Expensify reviewers on live issues.
 
 ## What I Built (running right now)
 
@@ -9,7 +9,7 @@ I build systems that monitor, analyze, decide, and act — without human interve
 - Reads full source code (functions, types, callers, git history)
 - Multi-model analysis (Claude Opus for code, Qwen + Gemini for quality scoring on competitive issues)
 - Auto-posts proposals when it finds an edge
-- Tracks competitors, learns reviewer preferences, self-improves from outcomes
+- Tracks competitors, learns reviewer preferences, adapts strategy as outcome data accumulates
 - Self-maintaining: consolidates strategy, cleans data, rebuilds knowledge base
 
 **Multi-Venue Trading Infrastructure** — autonomous trading fleet across multiple perp DEXes. Risk-bounded position management, watchdog alerts, multi-venue failover, state persistence across restarts. Architecture overview: [fleet-architecture](https://github.com/JustDreameritis/fleet-architecture).
