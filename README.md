@@ -12,24 +12,29 @@ I build systems that monitor, analyze, decide, and act — without human interve
 - Tracks competitors, learns reviewer preferences, self-improves from outcomes
 - Self-maintaining: consolidates strategy, cleans data, rebuilds knowledge base
 
-**Tech:** Python, PM2, SQLite FTS5, FastMCP, Anthropic/OpenRouter/Google AI APIs
+**Multi-Venue Trading Infrastructure** — autonomous trading fleet across multiple perp DEXes. Risk-bounded position management, watchdog alerts, multi-venue failover, state persistence across restarts. Architecture overview: [fleet-architecture](https://github.com/JustDreameritis/fleet-architecture).
+
+**Multiview** — 6-model parallel AI code reviewer. Routes code through multiple LLMs simultaneously. `pip install multiview`. Repo: [multiview](https://github.com/JustDreameritis/multiview).
+
+**Tech:** Python, TypeScript, PM2, SQLite FTS5, FastMCP, Anthropic/OpenRouter/Google AI APIs
 
 ## What I Can Build For You
 
-I build the same kind of autonomous systems for different problems:
+| What | Starting At | Working Example |
+|------|------------|----------------|
+| **Autonomous Monitoring Agents** | $500 | [bounty pipeline](https://github.com/JustDreameritis/fleet-architecture) |
+| **Multi-Model AI Pipelines** | $750 | [multiview](https://github.com/JustDreameritis/multiview) |
+| **Claude MCP Servers & Tools** | $500 | [claude-mcp-starter](https://github.com/JustDreameritis/claude-mcp-starter) |
+| **Custom Bots (Telegram/Discord)** | $500 | [telegram-bot-starter](https://github.com/JustDreameritis/telegram-bot-starter) |
+| **Workflow Automation (n8n/Python)** | $500 | [n8n-workflows](https://github.com/JustDreameritis/n8n-workflows) |
+| **RAG Chatbots** | $500 | [ai-chatbot-demo](https://github.com/JustDreameritis/ai-chatbot-demo) |
+| **Data Pipelines & ETL** | $500 | [data-pipeline-demo](https://github.com/JustDreameritis/data-pipeline-demo) |
 
-| What | Example | Starting At |
-|------|---------|------------|
-| **Monitoring + Response Agents** | Watch your GitHub/Slack/email, analyze, draft responses | $500 |
-| **Multi-Model AI Pipelines** | Route tasks to the right model, cross-verify, learn | $750 |
-| **MCP Servers & Claude Tools** | Custom tools that give Claude access to your data | $500 |
-| **Workflow Automation** | n8n/Python pipelines that replace manual processes | $500 |
+Every project includes: working code with full ownership, documentation, and 30 days support.
 
 ## Open Source Contributions
 
 Contributing to [Expensify/App](https://github.com/Expensify/App) — a 500-engineer React Native monorepo. Active proposals on navigation bugs, validation guards, and approval modal issues.
-
-**[multiview](https://github.com/JustDreameritis/multiview)** — 6-model parallel AI code reviewer. `pip install multiview`
 
 ## Contact
 
