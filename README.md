@@ -7,7 +7,7 @@ I build systems that monitor, analyze, decide, and act — without human interve
 **Autonomous Bounty Hunter** — 6 parallel processes monitoring GitHub 24/7:
 - Detects new bounty issues within 30 seconds
 - Reads full source code (functions, types, callers, git history)
-- Multi-model analysis: Claude Opus + Qwen + Gemini cross-verification
+- Multi-model analysis (Claude Opus for code, Qwen + Gemini for quality scoring on competitive issues)
 - Auto-posts proposals when it finds an edge
 - Tracks competitors, learns reviewer preferences, self-improves from outcomes
 - Self-maintaining: consolidates strategy, cleans data, rebuilds knowledge base
